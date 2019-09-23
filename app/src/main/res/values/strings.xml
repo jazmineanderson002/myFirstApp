@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">myFirstApp</string>
+    <string name="ucla">UCLA</string>
+    <string name="computer_science">Computer Science</string>
+    <string name="bruinslogo">BruinsLogo</string>
+    <string name="sports">Sports</string>
+</resources>
